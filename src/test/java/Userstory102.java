@@ -1,0 +1,2 @@
+public class Userstory102 {
+}
